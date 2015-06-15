@@ -1,2 +1,2 @@
-# DS_Coursera
+# datasciencecoursera
 Data Science related projects,files,notes
